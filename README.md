@@ -13,3 +13,4 @@ Requirements:
 ## PHP (Laravel)
 Requirements:
 - Laravel framework
+ (PS: I only put the php file, I used in inside a controller so it's easy to for making an API)
