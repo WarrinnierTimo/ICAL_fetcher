@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "ical",
+  "version": "1.0.0",
+  "description": "Getting data from an ical file",
+  "main": "ical.js",
+  "scripts": {
+    "test": "mocha test/**/*.js"
+  },
+  "author": "Timo W",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.1",
+    "ical.js": "^1.5.0",
+    "node-fetch": "^3.3.2",
+    "request-promise-native": "^1.0.9"
+  }
+}
